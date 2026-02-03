@@ -13,7 +13,7 @@ You are building a mini suite of real-world utilities using Java’s `Math` clas
 Create a folder named `src/` and place your `.java` files inside it: If src is already there, you do not have to create it
 
 src/
-- TipTaxCalculator.java
+- CalculatorProgram.TipTaxCalculator.java
 
 ## Recommended workflow
 1) Read assignment 01, build it, run it
@@ -161,7 +161,7 @@ Your project must include:
 
 ```
 src/
-└── TipTaxCalculator.java
+└── CalculatorProgram.TipTaxCalculator.java
 ```
 
 * The class name **must match the file name**
